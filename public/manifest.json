@@ -1,0 +1,17 @@
+{
+  "name": "Maison Cambon",
+  "short_name": "Maison Cambon",
+  "description": "Bistrot de Quartier à Clichy depuis 1940",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9F1",
+  "theme_color": "#7B2232",
+  "icons": [
+    {
+      "src": "/ico.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
